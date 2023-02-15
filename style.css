@@ -1,0 +1,140 @@
+body{
+    background-color: #0D192C;
+  }
+  
+  div{
+    background-color: #15263F; 
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: 0%;
+    bottom: 0%;
+    margin: auto;
+    width: 350px;
+    height: 596px;
+    border-radius: 15px;
+    box-shadow: 0, 25, 50, 0;
+  }
+  img{
+    position: absolute;
+    left: 6.86%;
+    right: 6.86%;
+    top: 4.03%;
+    bottom: 45.3%;
+    width: 302px;
+    height: 302px;
+    border-radius: 8px;
+  }
+
+  h1{
+    position: absolute;
+    left: 6.86%;
+    right: 6.86%;
+    top: 55.60%;
+    bottom: 36.58%;
+    font-family: 'Outfit';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 22px;
+    line-height: 28px;
+    color: white;
+    cursor: pointer;
+  }
+  h1:hover{
+    color: #00FFF8;
+  }
+  #text1{
+    position: absolute;
+    height: 52px;
+    left: 6.86%;
+    right: 6.86%;
+    top: 63%;
+    font-family: 'Outfit';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 26px;
+    color: #8BACD9;
+  }
+  #text2{
+    position: absolute;
+    left: 11.86%;
+    right: 7.14%;
+    top: 77%;
+    bottom: 17.79%;
+    font-family: 'Outfit';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 20px;
+    color: #00FFF8;
+  }
+  #pic1{
+    position: absolute;
+    top: 79.80%;
+    width: 11px;
+    height: 18px;
+
+  }
+  #pic2{
+    position: absolute;
+    width: 16px;
+    height: 16px;
+    top: 79.80%;
+    left: 227.3px;
+  }
+  #text3{
+    position: absolute;
+    font-family: 'Outfit';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 20px;
+    color: #8BACD9;
+    top: 76.75%;
+    left: 247.3px;
+  }
+  .line{
+    position: absolute;
+    left: 21px;
+    right: 30px;
+    top: 75%;
+    height: 1px;
+    width: 302px;
+    background-color: #2E405A;
+  }
+  #avatar{
+    position: absolute;
+    box-sizing: border-box;
+    border-radius: 16px;
+    border: 1px solid white;
+    height: 33px;
+    width: 33px;
+    top: 90%;
+  }
+  #text4{
+    position: absolute;
+    font-family: 'Outfit';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 20px;
+    top: 88.40%;
+    left: 20%;
+    color: #8BACD9;
+  }
+  #text5{
+    position: absolute;
+    font-family: 'Outfit';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 20px;
+    color: white;
+    top: 88.40%;
+    left: 43%;
+    cursor: pointer;
+  }
+  #text5:hover{
+    color: #00FFF8;
+  }
